@@ -11,6 +11,7 @@ public class Np01ProfileServiceApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
 	}
 
 }
