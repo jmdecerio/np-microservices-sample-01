@@ -9,3 +9,6 @@ spring:
       username: user
       password: topsecret
       label: ${git.branch},develop,master
+  h2:
+    console:
+      enabled: true

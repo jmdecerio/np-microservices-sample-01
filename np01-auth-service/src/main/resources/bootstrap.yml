@@ -9,3 +9,8 @@ spring:
       username: user
       password: topsecret
       label: ${git.branch},develop,master
+  main:
+    allow-bean-definition-overriding: true
+  h2:
+    console:
+      enabled: true

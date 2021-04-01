@@ -3,7 +3,7 @@ spring:
     config:
       server:
         git:
-          uri: file:///C:/Workspaces/intellij/workspace_springlemon/np-microservices-sample-01-config
+          uri: file:///C:/Workspaces/intellij/workpace_springlemon/np-microservices-sample-01-config
   security:
     user:
       password: topsecret
